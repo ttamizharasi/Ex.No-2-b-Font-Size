@@ -125,13 +125,14 @@ public class MainActivity extends AppCompatActivity {
     </RelativeLayout>
 
 
-## Output:
 
-![Screenshot 2024-09-14 133440](https://github.com/user-attachments/assets/7db27a7b-8acf-4790-8b10-1d3dc2fcda8f)
+
+## Output:
 
  
  ![Screenshot 2024-09-14 133518](https://github.com/user-attachments/assets/50c3cbd7-8e26-4744-900a-b2718f33d524)
 
+![Screenshot 2024-09-14 133440](https://github.com/user-attachments/assets/7db27a7b-8acf-4790-8b10-1d3dc2fcda8f)
 
 
 ## Result:
